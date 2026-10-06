@@ -3,8 +3,7 @@
 Benchmarks joint Bayesian-Optimization + VarPro fitting against
 classical, independent per-channel `curve_fit`, for extracting
 diffusion coefficients D(q) from XPCS g2(q, τ) correlation functions
-(KWW/stretched-exponential model). Simulated data only — real-data
-loading was removed.
+(KWW/stretched-exponential model). Simulated data only
 
 ## Install
 
